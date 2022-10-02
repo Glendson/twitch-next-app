@@ -24,25 +24,27 @@ I recreate Twitch in Next.JS styled with Tailwind CSS and as a bonus we will eve
 - `Next-AUTH`
 - `Headless UI`
 
+# Login Screen
+![Login screen](.github/login.png)
 
+# Login sucess screen
+![Login sucess](.github/sucess.png)
 
+# Index homepage upside!
+![Index upside](.github/index-logged.png)
 
-
-
-
-
-
-
-
+# Index homepage downside!
+![Index downside](.github/index-logged2.png)
 
 
 ## Getting Started
 
 First install, after install run the development server:
 
-npm i
-
 ```bash
+# first
+npm i
+#after
 npm run dev
 # or
 yarn dev
